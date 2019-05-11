@@ -12,4 +12,5 @@ DoWbot.js is the descendant of **The Lord Monotyke**, which was built from the [
  [2]: https://github.com/Quinella/Pokemon-Showdown-Bot/
 
 This bot is maintained/developed by DoW.
+
 This github is only updated occasionally. For a more up-to-date copy of the code, ask DoW for a `.tar.7z`.
